@@ -1,8 +1,9 @@
 package main
 
+/*
 import (
-	"edteam/src/greet" // Se tiene que importar para que se puede usar
 	"fmt"
+	"github.com/pcnay/edteam.git/greet" // Se tiene que importar para que se puede usar
 )
 
 func main() {
@@ -15,3 +16,4 @@ func main() {
 	fmt.Printf("Saludo en Italiano = %s \n", greet.Italian())
 
 }
+*/
